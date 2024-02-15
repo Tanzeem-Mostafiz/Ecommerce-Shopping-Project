@@ -1,0 +1,31 @@
+To run the php code/file written in VSCode
+- Put the php code/file in a folder named like "Ecommerce shopping Project"(any name) and full folder in the path:
+  C:\xampp\htdocs\Ecommerce Shopping Project
+  that is, inside the 'htdocs' of 'xampp folder' in 'C drive' which is created after installing xampp
+- Run or Open 'Xampp Application' and start Apache and MySQL
+  should be successful running without error
+- To see the webpage created by php:
+  i. Copy the path by opening the folder "C:\xampp\htdocs\Ecommerce Shopping Project"(copy)
+  ii. Open the default browser 'Chrome' and paste the path
+  iii. Then from the path write localhost like this:
+       "localhost\Ecommerce Shopping Project"
+- Your webpage created should be seen. If not, check the Xampp is running without error or not
+- If not running properly, there is a port problem
+
+To solve the port problem in Xampp
+- By default, port 3306 runs in MySQL
+- If it has problem-
+  i. Open or Run Xampp Application
+  ii. Go to 'config' beside MySQL, inside it -
+      a. (# password = your_password 
+          port=3309)
+          In this line, change the port number to any number like '3309'
+      b. (# bind-address="127.0.0.1:3306")
+         In this line, change the port like (# bind-address="127.0.0.1:3309")
+  iii. Then go to 'Config' of Xampp -> Service and port settings -> MySQL -> 3306 to 3309
+  iv. Now go to the path "C:\xampp\phpMyAdmin",that is, phpMyAdmin folder of xampp in C drive
+      a. In the phpMyAdmin, a file named "config.inc.php" is there
+      b. Click on the file -> Right click -> Open with -> Notepad/ Edit with Notepad++
+      c. In the line ($cfg['Servers'][$i]['host'] = '127.0.0.1:3306';), change the port to ($cfg['Servers'][$i]['host'] = '127.0.0.1:3309';)
+- Finished
+- Run Xampp and start the Apache and MySQL and wait to see if it is running properly
