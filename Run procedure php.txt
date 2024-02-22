@@ -29,3 +29,8 @@ To solve the port problem in Xampp
       c. In the line ($cfg['Servers'][$i]['host'] = '127.0.0.1:3306';), change the port to ($cfg['Servers'][$i]['host'] = '127.0.0.1:3309';)
 - Finished
 - Run Xampp and start the Apache and MySQL and wait to see if it is running properly
+
+To access the database MySQL -
+- Open Xampp Application and start Apache and MySQL
+- On the Chrome Browser write ("http://localhost/phpmyadmin/")
+ If the Xampp successfully runs, then MySQL will be accessed
