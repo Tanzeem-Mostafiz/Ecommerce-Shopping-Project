@@ -8,16 +8,16 @@ It provides a complete online shopping experience with features such as product 
 ## System Overview
 
 ### User Functionalities
-- User registration and authentication  
-- Product browsing, searching, and detailed viewing  
-- Shopping cart management  
-- Checkout summary and total cost display  
+  - User registration and authentication  
+  - Product browsing, searching, and detailed viewing  
+  - Shopping cart management  
+  - Checkout summary and total cost display  
 
 ### Admin Functionalities
-- Secure admin login  
-- Add, update, and delete products and categories  
-- Manage user accounts and monitor transactions  
-- Maintain inventory data integrity  
+  - Secure admin login  
+  - Add, update, and delete products and categories  
+  - Manage user accounts and monitor transactions  
+  - Maintain inventory data integrity  
 
 ---
 
