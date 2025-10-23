@@ -57,7 +57,7 @@ E-Commerce-System/
 ## Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/ecommerce-management-system
+git clone https://github.com/Tanzeem-Mostafiz/Ecommerce-Shopping-Project
 ```
 2. Move the folder to your XAMPP htdocs directory
 ```bash
