@@ -87,7 +87,7 @@ C:\xampp\htdocs\E-Commerce-System
 This project was developed solely for **academic and educational purposes** as part of a university course.  
 You are free to view, reference, and modify the code for learning or research use, provided that proper credit is given to the original authors.
 
-© 2025 Tanzeem Mostafiz & Aysha Siddika Prity. All rights reserved.
+© 2023 Tanzeem Mostafiz & Aysha Siddika Prity. All rights reserved.
 
 ---
 
