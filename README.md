@@ -24,7 +24,7 @@ The **E-Commerce Management System** is a full-stack web application developed a
 
 | Layer | Technologies |
 |-------|---------------|
-| **Frontend** | HTML5, CSS3 |
+| **Frontend** | HTML5, CSS3, Bootstrap library |
 | **Backend** | PHP (Procedural) |
 | **Database** | MySQL |
 | **Server Environment** | Apache (XAMPP) |
@@ -73,4 +73,10 @@ C:\xampp\htdocs\E-Commerce-System
 [git clone https://github.com/your-username/ecommerce-management-system](http://localhost/E-Commerce-System/)
 ```
 
+---
 
+## Developer
+1. **Tanzeem Mostafiz**
+   Undergraduate Student, Department of Information and Communication Technology, Bangladesh University of Professionals (BUP)
+2. **Aysha Siddika Prity**
+   Undergraduate Student, Department of Information and Communication Technology, Bangladesh University of Professionals (BUP)
