@@ -64,12 +64,12 @@ git clone https://github.com/Tanzeem-Mostafiz/Ecommerce-Shopping-Project
 C:\xampp\htdocs\E-Commerce-System
 ```
 3. Database Setup
-  - Open phpMyAdmin
-  - Create a new database (e.g., ecommerce_db)
-  - Import the SQL file from /Database/project.sql
+    - Open phpMyAdmin
+    - Create a new database (e.g., ecommerce_db)
+    - Import the SQL file from /Database/project.sql
 4. Run the project
-  - Start Apache and MySQL in XAMPP
-  - Open in browser:
+    - Start Apache and MySQL in XAMPP
+    - Open in browser:
 ```bash
 git clone https://github.com/Tanzeem-Mostafiz/Ecommerce-Shopping-Project
 ```
