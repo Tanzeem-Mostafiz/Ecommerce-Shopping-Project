@@ -85,13 +85,14 @@ C:\xampp\htdocs\E-Commerce-System
 ## License
 
 This project was developed solely for **academic and educational purposes** as part of a university course.  
-You are free to view, reference, and modify the code for learning or research use, provided that proper credit is given to the original authors.
+You are free to view, reference, and modify the code for **learning or research use**, provided that proper credit is given to the original authors.
 
-© 2023 Tanzeem Mostafiz & Aysha Siddika Prity. All rights reserved.
+© 2023 **Tanzeem Mostafiz** & **Aysha Siddika Prity**. All rights reserved.
 
 ---
 
 ## Acknowledgment
 
-This project was completed under the guidance and supervision of faculty members from the **Department of Information and Communication Technology**, **Bangladesh University of Professionals (BUP)**.  
-We would like to express our sincere gratitude for their valuable support and insights throughout the development process.
+This project was completed under the guidance and supervision of faculty members from the  
+**Department of Information and Communication Technology**, **Bangladesh University of Professionals (BUP)**.  
+We express our sincere gratitude for their valuable support and insights throughout the development process.
