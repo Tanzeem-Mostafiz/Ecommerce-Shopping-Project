@@ -71,7 +71,7 @@ C:\xampp\htdocs\E-Commerce-System
   - Start Apache and MySQL in XAMPP
   - Open in browser:
 ```bash
-[git clone https://github.com/your-username/ecommerce-management-system](http://localhost/E-Commerce-System/)
+git clone https://github.com/Tanzeem-Mostafiz/Ecommerce-Shopping-Project
 ```
 
 ---
