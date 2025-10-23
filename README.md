@@ -85,7 +85,9 @@ http://localhost/E-Commerce-System/
 ## License
 
 This project was developed solely for **academic and educational purposes** as part of a university course.  
+
 Permission is granted to **view, reference, and modify** the code for **learning, research, or educational use**, provided that proper credit is given to the original authors.  
+
 © 2023 **Tanzeem Mostafiz & Aysha Siddika Prity**. All rights reserved.
 
 ---
