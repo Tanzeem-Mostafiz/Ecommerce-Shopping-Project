@@ -93,6 +93,5 @@ You are free to view, reference, and modify the code for learning or research us
 
 ## Acknowledgment
 
-This project was completed under the guidance and supervision of faculty members from the **Department of Information and Communication Technology**,  
-**Bangladesh University of Professionals (BUP)**.  
+This project was completed under the guidance and supervision of faculty members from the **Department of Information and Communication Technology**, **Bangladesh University of Professionals (BUP)**.  
 We would like to express our sincere gratitude for their valuable support and insights throughout the development process.
