@@ -1,6 +1,7 @@
 # E-Commerce Management System
 
-The **E-Commerce Management System** is a full-stack web application developed as part of an academic course project. It simulates an online marketplace, integrating both **user-side and administrative operations** through a **PHP–MySQL** architecture. The project demonstrates practical applications of database-driven web development, server-side scripting, and modular design principles.
+The **E-Commerce Management System** is a full-stack web application developed as part of a university course group project. It simulates an online marketplace, integrating both **user-side and administrative operations** through a **PHP–MySQL** architecture. 
+It provides a complete online shopping experience with features such as product listing, search, cart management, and admin control. The system is built using PHP, MySQL, HTML, CSS, and basic frontend components, following a structured modular design.
 
 ---
 
@@ -76,7 +77,5 @@ C:\xampp\htdocs\E-Commerce-System
 ---
 
 ## Developer
-1. **Tanzeem Mostafiz**
-   Undergraduate Student, Department of Information and Communication Technology, Bangladesh University of Professionals (BUP)
-2. **Aysha Siddika Prity**
-   Undergraduate Student, Department of Information and Communication Technology, Bangladesh University of Professionals (BUP)
+1. **Tanzeem Mostafiz** | Undergraduate Student, Department of Information and Communication Technology, Bangladesh University of Professionals (BUP)
+2. **Aysha Siddika Prity** | Undergraduate Student, Department of Information and Communication Technology, Bangladesh University of Professionals (BUP)
